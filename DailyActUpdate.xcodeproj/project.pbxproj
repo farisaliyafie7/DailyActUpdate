@@ -17,6 +17,7 @@
 		AE9E2D87240D53D700343CAC /* DailyActTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9E2D86240D53D700343CAC /* DailyActTests.swift */; };
 		AE9E2D92240D53D700343CAC /* DailyActUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9E2D91240D53D700343CAC /* DailyActUITests.swift */; };
 		AEE348B124826787000BE953 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE348B024826787000BE953 /* TestViewController.swift */; };
+		AEE348B524826EAC000BE953 /* HistoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE348B424826EAC000BE953 /* HistoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		AE9E2D91240D53D700343CAC /* DailyActUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyActUITests.swift; sourceTree = "<group>"; };
 		AE9E2D93240D53D700343CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AEE348B024826787000BE953 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		AEE348B424826EAC000BE953 /* HistoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				AE9E2D7A240D53D700343CAC /* LaunchScreen.storyboard */,
 				AE9E2D7D240D53D700343CAC /* Info.plist */,
 				AEE348B024826787000BE953 /* TestViewController.swift */,
+				AEE348B424826EAC000BE953 /* HistoryViewController.swift */,
 			);
 			path = DailyAct;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 				AEE348B124826787000BE953 /* TestViewController.swift in Sources */,
 				AE9E2D74240D53D400343CAC /* ViewController.swift in Sources */,
 				AE9E2D70240D53D400343CAC /* AppDelegate.swift in Sources */,
+				AEE348B524826EAC000BE953 /* HistoryViewController.swift in Sources */,
 				AE9E2D72240D53D400343CAC /* SceneDelegate.swift in Sources */,
 				AE9CB89E2423149400753C1D /* ResultViewController.swift in Sources */,
 			);
