@@ -16,6 +16,7 @@
 		AE9E2D7C240D53D700343CAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE9E2D7A240D53D700343CAC /* LaunchScreen.storyboard */; };
 		AE9E2D87240D53D700343CAC /* DailyActTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9E2D86240D53D700343CAC /* DailyActTests.swift */; };
 		AE9E2D92240D53D700343CAC /* DailyActUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE9E2D91240D53D700343CAC /* DailyActUITests.swift */; };
+		AEE348B124826787000BE953 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE348B024826787000BE953 /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		AE9E2D88240D53D700343CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AE9E2D91240D53D700343CAC /* DailyActUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyActUITests.swift; sourceTree = "<group>"; };
 		AE9E2D93240D53D700343CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEE348B024826787000BE953 /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				AE9E2D78240D53D700343CAC /* Assets.xcassets */,
 				AE9E2D7A240D53D700343CAC /* LaunchScreen.storyboard */,
 				AE9E2D7D240D53D700343CAC /* Info.plist */,
+				AEE348B024826787000BE953 /* TestViewController.swift */,
 			);
 			path = DailyAct;
 			sourceTree = "<group>";
@@ -254,6 +257,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEE348B124826787000BE953 /* TestViewController.swift in Sources */,
 				AE9E2D74240D53D400343CAC /* ViewController.swift in Sources */,
 				AE9E2D70240D53D400343CAC /* AppDelegate.swift in Sources */,
 				AE9E2D72240D53D400343CAC /* SceneDelegate.swift in Sources */,
